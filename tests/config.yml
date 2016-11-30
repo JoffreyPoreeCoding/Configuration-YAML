@@ -1,0 +1,6 @@
+no_first_level: my value
+
+with_first_level:
+    value: simple_value
+    embedded:
+        value: embedded_value
